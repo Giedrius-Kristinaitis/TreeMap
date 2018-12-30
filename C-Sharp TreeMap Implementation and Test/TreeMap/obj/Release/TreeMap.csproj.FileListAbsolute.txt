@@ -1,0 +1,11 @@
+C:\Users\Giedrius\Desktop\TreeMap\TreeMap\TreeMap\bin\Release\TreeMap.exe.config
+C:\Users\Giedrius\Desktop\TreeMap\TreeMap\TreeMap\bin\Release\TreeMap.exe
+C:\Users\Giedrius\Desktop\TreeMap\TreeMap\TreeMap\bin\Release\TreeMap.pdb
+C:\Users\Giedrius\Desktop\TreeMap\TreeMap\TreeMap\obj\Release\TreeMap.exe
+C:\Users\Giedrius\Desktop\TreeMap\TreeMap\TreeMap\obj\Release\TreeMap.pdb
+C:\Users\Giedrius\Desktop\C-Sharp TreeMap Realizacija ir Testas\TreeMap\TreeMap\bin\Release\TreeMap.exe.config
+C:\Users\Giedrius\Desktop\C-Sharp TreeMap Realizacija ir Testas\TreeMap\TreeMap\obj\Release\TreeMap.exe
+C:\Users\Giedrius\Desktop\C-Sharp TreeMap Realizacija ir Testas\TreeMap\TreeMap\obj\Release\TreeMap.pdb
+C:\Users\Giedrius\Desktop\C-Sharp TreeMap Realizacija ir Testas\TreeMap\TreeMap\bin\Release\TreeMap.exe
+C:\Users\Giedrius\Desktop\C-Sharp TreeMap Realizacija ir Testas\TreeMap\TreeMap\bin\Release\TreeMap.pdb
+C:\Users\Giedrius\Desktop\C-Sharp TreeMap Realizacija ir Testas\TreeMap\TreeMap\obj\Release\TreeMap.csprojResolveAssemblyReference.cache

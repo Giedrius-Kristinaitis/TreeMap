@@ -1,0 +1,6 @@
+c:\users\giedrius\desktop\TreeMap\TreeMap\TreeMap\bin\Debug\TreeMap.exe.config
+c:\users\giedrius\desktop\TreeMap\TreeMap\TreeMap\bin\Debug\TreeMap.exe
+c:\users\giedrius\desktop\TreeMap\TreeMap\TreeMap\bin\Debug\TreeMap.pdb
+c:\users\giedrius\desktop\TreeMap\TreeMap\TreeMap\obj\Debug\TreeMap.csprojResolveAssemblyReference.cache
+c:\users\giedrius\desktop\TreeMap\TreeMap\TreeMap\obj\Debug\TreeMap.exe
+c:\users\giedrius\desktop\TreeMap\TreeMap\TreeMap\obj\Debug\TreeMap.pdb
